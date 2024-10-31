@@ -2,19 +2,7 @@
 
 Welcome to my Portfolio Website repository! This project showcases my skills and projects as a DevOps Engineer.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
-
 ## Features
-
 - Responsive design
 - Interactive project showcase
 - Contact form
