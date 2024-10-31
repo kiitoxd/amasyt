@@ -1,6 +1,6 @@
-# Portfolio Website
+#my portfolio :)
 
-Welcome to my Portfolio Website repository! This project showcases my skills and projects as a DevOps Engineer.
+This project showcases my skills and projects as both DevOps and web developer.
 
 ## Features
 - Responsive design
