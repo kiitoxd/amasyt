@@ -404,7 +404,7 @@ span.single-timeline-horizontal {
     background: #cecece;
     height: 1px;
     width: 380px;
-}=================================================================================================================================================================================================================================================
+}
 
 span.single-timeline-horizontal.spacial-horizontal-line {
     width: 88px;
@@ -1054,17 +1054,14 @@ b
     }
 }
 
-
-.typewriter {
-    overflow: hidden;
-    border-right: .15em solid orange;
-    white-space: nowrap;
-    margin: 0 auto;
-    letter-spacing: .15em;
-    animation: blink-caret 0.75s step-end infinite;
+.colored-tag {
+    color: #a8a6f7;
 }
 
-@keyframes blink-caret {
-    from, to { border-color: transparent; }
-    50% { border-color: orange; }
+.purple {
+    color: purple;
+}
+
+.loyal-developer {
+    color: purple;
 }
